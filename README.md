@@ -1,6 +1,6 @@
 # Archievers
 
-Team Name    : Achievers ,  
+Team Name    : Achievers    
 App Name     : Hale    
 Team members : Mpya Matleke , 
                Malepe Raymond , 
