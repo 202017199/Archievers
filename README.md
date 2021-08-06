@@ -2,10 +2,10 @@
 
 Team Name    : Achievers ,  
 App Name     : Hale ,  
-Team members : Mpya Matleke 
-               Malepe Raymond 
-               Sekgobela Kgaogelo Caution 
-               Diphoko Tiisetso 
+Team members : Mpya Matleke , 
+               Malepe Raymond , 
+               Sekgobela Kgaogelo Caution ,  
+               Diphoko Tiisetso , 
                Monyebodi Respect 
                 
 About App    : Hale is an app that is designed with features that simplifies users medical lifestyle,features that help/remind you of your intake medication.
