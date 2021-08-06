@@ -3,7 +3,7 @@
 Team Name    : Achievers    
 App Name     : Hale    
 Team members : Mpya Matleke , 
-               Malepe Raymond , 
+               Malepe Raymond ,  
                Sekgobela Kgaogelo Caution ,  
                Diphoko Tiisetso , 
                Monyebodi Respect 
