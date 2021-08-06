@@ -1,7 +1,7 @@
 # Archievers
 
-Team Name    : Achievers 
-App Name     : Hale 
+Team Name    : Achievers ,
+App Name     : Hale ,
 Team members : Mpya Matleke 
                Malepe Raymond 
                Sekgobela Kgaogelo Caution 
